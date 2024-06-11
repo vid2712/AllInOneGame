@@ -1,1 +1,1 @@
-Snake stone game
+Snake stone game.
